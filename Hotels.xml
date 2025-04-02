@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Hotels>
+    <!-- HOTEL1: EXCALIBUR-->
+    <Hotel Rating="3">
+        <!-- OPTIONAL ATTRIBUTE: RATING-->
+        <Name>Excalibur</Name>
+        <Phone>702-597-7777</Phone>
+        <Phone>877-750-5464</Phone>
+        <Address NearestAirport="McCarran International Airport">
+            <Number>3850</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL2: THE PLAZA HOTEL -->
+    <Hotel>
+        <!-- NO RATING -->
+        <Name>The Plaza Hotel</Name>
+        <Phone>212-759-3000</Phone>
+        <Address NearestAirport="John F. Kennedy International Airport">
+            <Number>768</Number>
+            <Street>5th Avenue</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10019</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL3: CHICKEN RANCH CASINO RESORT -->
+    <Hotel Rating="4">
+        <Name>Chicken Ranch Casino Resort</Name>
+        <Phone>209-984-3000</Phone>
+        <Address NearestAirport="Modesto City-County Airport">
+            <Number>16929</Number>
+            <Street>Chicken Ranch Road</Street>
+            <City>Jamestown</City>
+            <State>CA</State>
+            <Zip>95327</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL4: OMNI DALLAS HOTEL -->
+    <Hotel Rating="4">
+        <Name>Omni Dallas Hotel</Name>
+        <Phone>214-744-6664</Phone>
+        <Address NearestAirport="Dallas/Fort Worth International Airport">
+            <Number>555</Number>
+            <Street>S Lamar Street</Street>
+            <City>Dallas</City>
+            <State>TX</State>
+            <Zip>75202</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL5: THE BREAKERS PALM BEACH -->
+    <Hotel Rating="5">
+        <Name>The Breakers Palm Beach</Name>
+        <Phone>561-655-6611</Phone>
+        <Address NearestAirport="Palm Beach International Airport">
+            <Number>1</Number>
+            <Street>S County Road</Street>
+            <City>Palm Beach</City>
+            <State>FL</State>
+            <Zip>33480</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL6: THE PENINSULA CHICAGO -->
+    <Hotel Rating="5">
+        <Name>The Peninsula Chicago</Name>
+        <Phone>312-337-2888</Phone>
+        <Address NearestAirport="Chicago O'Hare International Airport">
+            <Number>108</Number>
+            <Street>E Superior Street</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60611</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL7: FAIRMONT COPLEY PLAZA -->
+    <Hotel Rating="4">
+        <Name>Fairmont Copley Plaza Boston</Name>
+        <Phone>617-267-5300</Phone>
+        <Address NearestAirport="Boston Logan International Airport">
+            <Number>138</Number>
+            <Street>St James Avenue</Street>
+            <City>Boston</City>
+            <State>MA</State>
+            <Zip>02116</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL8: WILLARD INTERCONTINENTAL -->
+    <Hotel Rating="5">
+        <Name>The Willard InterContinental Washington, D.C.</Name>
+        <Phone>202-628-9100</Phone>
+        <Address NearestAirport="Ronald Reagan Washington National Airport">
+            <Number>1401 Pennsylvania Avenue NW</Number>
+            <Street>Pennsylvania Avenue NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip >20004 </Zip>
+        </Address >
+    </Hotel>
+    <!-- HOTEL9: ORCHID KEY INN -->
+    <Hotel Rating="4">
+        <Name>Orchid Key Inn</Name>
+        <Phone>305-296-9915</Phone>
+        <Address NearestAirport="Key West International Airport">
+            <Number>1004</Number>
+            <Street>Duval Street</Street>
+            <City>Key West</City>
+            <State>FL</State>
+            <Zip>33040</Zip>
+        </Address>
+    </Hotel>
+    <!-- HOTEL10: WALDORF ASTORIA WASHINGTON DC -->
+    <Hotel Rating="5">
+        <Name>Waldorf Astoria Washington DC</Name>
+        <Phone>202-695-1100</Phone>
+        <Address NearestAirport="Ronald Reagan Washington National Airport">
+            <Number>1100</Number>
+            <Street>Pennsylvania Ave NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip>20004</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
