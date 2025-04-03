@@ -6,7 +6,7 @@
         <Name>Excalibur</Name>
         <Phone>702-597-7777</Phone>
         <Phone>877-750-5464</Phone>
-        <Address NearestAirport="McCarran International Airport">
+        <Address NearstAirport="McCarran International Airport">
             <Number>3850</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Las Vegas</City>
@@ -19,7 +19,7 @@
         <!-- NO RATING -->
         <Name>The Plaza Hotel</Name>
         <Phone>212-759-3000</Phone>
-        <Address NearestAirport="John F. Kennedy International Airport">
+        <Address NearstAirport="John F. Kennedy International Airport">
             <Number>768</Number>
             <Street>5th Avenue</Street>
             <City>New York</City>
@@ -31,7 +31,7 @@
     <Hotel Rating="4">
         <Name>Chicken Ranch Casino Resort</Name>
         <Phone>209-984-3000</Phone>
-        <Address NearestAirport="Modesto City-County Airport">
+        <Address NearstAirport="Modesto City-County Airport">
             <Number>16929</Number>
             <Street>Chicken Ranch Road</Street>
             <City>Jamestown</City>
@@ -43,7 +43,7 @@
     <Hotel Rating="4">
         <Name>Omni Dallas Hotel</Name>
         <Phone>214-744-6664</Phone>
-        <Address NearestAirport="Dallas/Fort Worth International Airport">
+        <Address NearstAirport="Dallas/Fort Worth International Airport">
             <Number>555</Number>
             <Street>S Lamar Street</Street>
             <City>Dallas</City>
@@ -55,7 +55,7 @@
     <Hotel Rating="5">
         <Name>The Breakers Palm Beach</Name>
         <Phone>561-655-6611</Phone>
-        <Address NearestAirport="Palm Beach International Airport">
+        <Address NearstAirport="Palm Beach International Airport">
             <Number>1</Number>
             <Street>S County Road</Street>
             <City>Palm Beach</City>
@@ -67,7 +67,7 @@
     <Hotel Rating="5">
         <Name>The Peninsula Chicago</Name>
         <Phone>312-337-2888</Phone>
-        <Address NearestAirport="Chicago O'Hare International Airport">
+        <Address NearstAirport="Chicago O'Hare International Airport">
             <Number>108</Number>
             <Street>E Superior Street</Street>
             <City>Chicago</City>
@@ -79,7 +79,7 @@
     <Hotel Rating="4">
         <Name>Fairmont Copley Plaza Boston</Name>
         <Phone>617-267-5300</Phone>
-        <Address NearestAirport="Boston Logan International Airport">
+        <Address NearstAirport="Boston Logan International Airport">
             <Number>138</Number>
             <Street>St James Avenue</Street>
             <City>Boston</City>
@@ -91,19 +91,19 @@
     <Hotel Rating="5">
         <Name>The Willard InterContinental Washington, D.C.</Name>
         <Phone>202-628-9100</Phone>
-        <Address NearestAirport="Ronald Reagan Washington National Airport">
-            <Number>1401 Pennsylvania Avenue NW</Number>
+        <Address NearstAirport="Ronald Reagan Washington National Airport">
+            <Number>1401</Number>
             <Street>Pennsylvania Avenue NW</Street>
             <City>Washington</City>
             <State>DC</State>
-            <Zip >20004 </Zip>
+            <Zip >20004</Zip>
         </Address >
     </Hotel>
     <!-- HOTEL9: ORCHID KEY INN -->
     <Hotel Rating="4">
         <Name>Orchid Key Inn</Name>
         <Phone>305-296-9915</Phone>
-        <Address NearestAirport="Key West International Airport">
+        <Address NearstAirport="Key West International Airport">
             <Number>1004</Number>
             <Street>Duval Street</Street>
             <City>Key West</City>
@@ -115,7 +115,7 @@
     <Hotel Rating="5">
         <Name>Waldorf Astoria Washington DC</Name>
         <Phone>202-695-1100</Phone>
-        <Address NearestAirport="Ronald Reagan Washington National Airport">
+        <Address NearstAirport="Ronald Reagan Washington National Airport">
             <Number>1100</Number>
             <Street>Pennsylvania Ave NW</Street>
             <City>Washington</City>
